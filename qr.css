@@ -21,18 +21,20 @@ body {
     flex-direction:column;
     margin:0 auto;
     background-color: #FFFFFF;
-    padding:1% 1% 0 1%;
-    border-radius:15px;
+    padding:.7rem .7rem;
+    border-radius:1rem;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     max-width:20rem;
     width:100%;
     margin-top:6.5rem;
+    align-items:center;
 }
 
 img {
   border-radius:15px;
   display:block;
   align-items:center;
+  
 }
 
 .qr-container > *{
